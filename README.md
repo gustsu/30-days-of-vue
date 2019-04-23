@@ -8,7 +8,7 @@
 
 [Vue Mastery - Multiple Classes](https://www.vuemastery.com/)
 
-[Udemy Vue JS 2 The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-DLw7IWgPwirnNu4lDk5FLg&LSNPUBID=jU79Zysihs4)
+[Udemy - Vue JS 2 The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-DLw7IWgPwirnNu4lDk5FLg&LSNPUBID=jU79Zysihs4)
 
 ### Log
 
