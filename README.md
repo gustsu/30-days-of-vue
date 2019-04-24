@@ -18,6 +18,13 @@
 
 **Thoughts**: Happy with the resources I've picked. Ready to get started!
 
-**Link(s) to work**:
-[This Repo](https://github.com/gustsu/30-days-of-vue)
+**Link(s) to work**: [This Repo](https://github.com/gustsu/30-days-of-vue)
+
+### Day 1: April 22 2019
+
+**Today's Progress**: Restarted  [Vue Mastery course one](https://www.vuemastery.com/courses/intro-to-vue-js/event-handling). Made it to lesson 5 in the first course Intro to Vue.js.
+
+**Thoughts**: Felt like this was a good tutorial to start with since I have already completed the first course once but that was a little while ago and I don't recall everything. I'm having with fun the course, adding my own css and assets to make it a little more unique. Vue seems pretty neat and easy to pick up.
+
+**Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
 
