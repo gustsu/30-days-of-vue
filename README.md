@@ -20,7 +20,7 @@
 
 **Link(s) to work**: [This Repo](https://github.com/gustsu/30-days-of-vue)
 
-### Day 1: April 22 2019
+### Day 1: April 23 2019
 
 **Today's Progress**: Restarted  [Vue Mastery course one](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/). Made it to lesson 5.
 
