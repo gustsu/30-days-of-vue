@@ -22,7 +22,7 @@
 
 ### Day 1: April 23 2019
 
-**Today's Progress**: Restarted  [Vue Mastery course one](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/). Finished lessions 1 - 4.
+**Today's Progress**: Restarted  [Vue Mastery - Intro to Vue JS](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/). Finished lessions 1 - 4.
 
 **Thoughts**: Felt like this was a good tutorial to start with since I have already completed the first course once but that was a little while ago and I don't recall everything. I'm having with fun the course, adding my own css and assets to make it a little more unique. Vue seems pretty neat and easy to pick up.
 
@@ -30,10 +30,19 @@
 
 ### Day 2: April 24 2019
 
-**Today's Progress**: Continued with [Vue Mastery course one](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/). Finished lesson 5 - 6.
+**Today's Progress**: Continued with [Vue Mastery - Intro to Vue JS](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/). Finished lesson 5 - 6.
 
 
 **Thoughts**: Enjoying this course and enjoying Vue. Didn't spend a ton of time tonight but feels good to at least put in 30 minutes. Happy I've commited to 30 days, looking forward to some cool projects.
+
+**Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
+
+### Day 3: April 29 2019
+
+**Today's Progress**: Continued with [Vue Mastery - Intro to Vue JS](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/). Finished lesson 7 - 8.
+
+
+**Thoughts**: Learned about Computed Properties and Componets. 
 
 **Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
 
