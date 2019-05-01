@@ -2,15 +2,15 @@
 # 30 Days of Vue Challenge
 
 ## Resources
-[Net Ninja YouTube Channel - Learn Vue 2](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+[Net Ninja YouTube Channel - Learn Vue 2 (Free)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 
-[Laravel Cast - Learn Vue 2 Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step)
+[Laravel Cast - Learn Vue 2 Step by Step (Free)](https://laracasts.com/series/learn-vue-2-step-by-step)
 
-[Vue Mastery - Multiple Classes](https://www.vuemastery.com/)
+[Vue Mastery - Multiple Classes (Free)](https://www.vuemastery.com/)
 
-[Udemy - Vue JS 2 The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-DLw7IWgPwirnNu4lDk5FLg&LSNPUBID=jU79Zysihs4)
+[Udemy - Vue JS 2 The Complete Guide (Paid)](https://www.udemy.com/vuejs-2-the-complete-guide/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-DLw7IWgPwirnNu4lDk5FLg&LSNPUBID=jU79Zysihs4)
 
-[Fullstack Vue The Complete Guide to Vue.js](https://www.fullstack.io/vue)
+[Fullstack.io - FullStack Vue Book (Paid)](https://www.fullstack.io/vue)
 
 
 
