@@ -61,3 +61,11 @@
 
 **Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
 
+### Day 5: May 7 2019
+
+**Today's Progress**: Continued with [Vue Mastery - Intro to Vue JS](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/). Finished lesson 10.
+
+**Thoughts**: Learned how to nest components inside of other components. Also learned about 2 way data binding. 
+
+**Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
+
