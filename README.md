@@ -69,3 +69,11 @@
 
 **Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
 
+### Day 6: May 12 2019
+
+**Today's Progress**: Finished the last lesson of [Vue Mastery - Intro to Vue JS](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/). Finished [vuemastery-course1](https://github.com/gustsu/vuemastery-course1) for now.
+
+**Thoughts**: Learned about state management. Implemented tabs on my project. Worked on the CSS as well. First project is complete for now! 
+
+**Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
+
