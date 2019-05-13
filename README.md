@@ -13,6 +13,20 @@
 [Fullstack.io - FullStack Vue Book (Paid)](https://www.fullstack.io/vue)
 
 
+## Project Ideas
+[Simple Product Page](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+
+[Weather App](https://dev.to/fabiorosado/weather-app-using-vue-and-axios-4ia6)
+
+[Cryptocurrency Price Tracker](https://medium.com/@rachidsakara/building-a-cryptocurrency-app-with-vue-js-and-cryptocompare-api-14231af6f099)
+
+[Vue Calculator] (https://www.youtube.com/watch?v=m1_ih43p24s)
+
+Vue Portfolio Site
+
+[Trello Board] (https://www.vuemastery.com/courses/watch-us-build-trello-clone/tour-of-the-app/)
+
+
 
 ## Log
 
