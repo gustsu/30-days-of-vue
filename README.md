@@ -92,3 +92,10 @@ Vue Portfolio Site
 
 **Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
 
+### Day 6: May 14 2019
+
+**Today's Progress**: Started on [Vue Mastery - Real World Vue JS](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro)
+
+**Thoughts**: 
+
+**Link(s) to work**: 
