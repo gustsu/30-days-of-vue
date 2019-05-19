@@ -102,4 +102,4 @@
 
 **Thoughts**: Setup Vue CLI. 
 
-**Link(s) to work**: 
+**Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
