@@ -23,9 +23,11 @@
 
 [Vue Calculator](https://www.youtube.com/watch?v=m1_ih43p24s)
 
-Vue Portfolio Site
+[Vue Portfolio Site](https://medium.freecodecamp.org/how-to-power-up-your-website-with-vue-js-and-minimal-effort-dc8042cc383c)
 
 [Trello Board](https://www.vuemastery.com/courses/watch-us-build-trello-clone/tour-of-the-app/)
+
+[Basic CRUD App with Vue and Node](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)
 
 
 
