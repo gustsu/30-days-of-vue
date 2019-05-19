@@ -21,6 +21,8 @@
 
 [Cryptocurrency Price Tracker](https://medium.com/@rachidsakara/building-a-cryptocurrency-app-with-vue-js-and-cryptocompare-api-14231af6f099)
 
+[To Do List](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2)
+
 [Vue Calculator](https://www.youtube.com/watch?v=m1_ih43p24s)
 
 [Vue Portfolio Site](https://medium.freecodecamp.org/how-to-power-up-your-website-with-vue-js-and-minimal-effort-dc8042cc383c)
@@ -94,10 +96,10 @@
 
 **Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
 
-### Day 6: May 14 2019
+### Day 7: May 14 2019
 
 **Today's Progress**: Started on [Vue Mastery - Real World Vue JS](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro)
 
-**Thoughts**: 
+**Thoughts**: Setup Vue CLI. 
 
 **Link(s) to work**: 
