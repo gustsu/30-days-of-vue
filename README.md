@@ -103,3 +103,11 @@
 **Thoughts**: Setup Vue CLI. 
 
 **Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
+
+### Day 8: May 23 2019
+
+**Today's Progress**: Continued with [Vue Mastery - Real World Vue JS](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro)
+
+**Thoughts**: Learning about the Vue Router and API calls with Axios. 
+
+**Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
