@@ -120,4 +120,3 @@
 
 **Link(s) to work**: [vue-material-testing](https://github.com/gustsu/vue-material-testing)
 
-https://github.com/gustsu/vue-material-testing
