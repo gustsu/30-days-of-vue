@@ -111,3 +111,13 @@
 **Thoughts**: Learning about the Vue Router and API calls with Axios. 
 
 **Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
+
+### Day 9: May 26 2019
+
+**Today's Progress**: Took a break from the vuemastery courses to work on start on some project ideas.
+
+**Thoughts**: I'm planning on building a weather or cryptocurrentcy price tracking app after I finish vuemastery-course2, so today I played around with [Vue Material](https://vuematerial.io). It is a really neat framework based on Googles Material Design. I've read mixed reviews regarding the framework but it seems very straight forward and well documented to me. Excited to use it in the future.
+
+**Link(s) to work**: [vue-material-testing](https://github.com/gustsu/vue-material-testing)
+
+https://github.com/gustsu/vue-material-testing
