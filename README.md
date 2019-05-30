@@ -116,7 +116,7 @@
 
 **Today's Progress**: Took a break from the vuemastery courses to start on some project ideas.
 
-**Thoughts**: I'm planning on building a weather or cryptocurrentcy price tracking app after I finish vuemastery-course2, so today I played around with [Vue Material](https://vuematerial.io). It is a really neat framework based on Googles Material Design. I've read mixed reviews regarding the framework but it seems very straight forward and well documented to me. Excited to use it in the future.
+**Thoughts**: I'm planning on building a weather or cryptocurrency price tracking app after I finish vuemastery-course2, so today I played around with [Vue Material](https://vuematerial.io). It is a really neat framework based on Googles Material Design. I've read mixed reviews regarding the framework but it seems very straight forward and well documented to me. Excited to use it in the future.
 
 **Link(s) to work**: [vue-material-testing](https://github.com/gustsu/vue-material-testing)
 
