@@ -120,3 +120,12 @@
 
 **Link(s) to work**: [vue-material-testing](https://github.com/gustsu/vue-material-testing)
 
+### Day 10: May 30 2019
+
+**Today's Progress**: Continued with [Vue Mastery - Real World Vue JS](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro)
+
+**Thoughts**: Learned about the vue router and client side routing. Excited to finish [Vue Mastery - Real World Vue JS](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro) so I can move onto some projects of my own. Tutorials are nice there is nothing like doing it yourself to learn something new.
+
+
+**Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
+
