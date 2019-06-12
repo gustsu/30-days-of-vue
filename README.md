@@ -129,3 +129,12 @@
 
 **Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
 
+### Day 11: June 12 2019
+
+**Today's Progress**: Continued with [Vue Mastery - Real World Vue JS](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro). Finished Lesson 5, 4 more to go!
+
+**Thoughts**: Learned more about the vue router and how to setup dynamic routes. Also learned how to configure a web server to work with the vue router (just always serve index.html). 
+
+
+**Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
+
