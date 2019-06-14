@@ -138,3 +138,12 @@
 
 **Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
 
+### Day 12: June 14 2019
+
+**Today's Progress**: Continued with [Vue Mastery - Real World Vue JS](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro). Finished Lesson 6
+
+**Thoughts**: Learned more components and how import/export them for use with other components. 
+
+
+**Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
+
