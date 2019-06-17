@@ -1,7 +1,7 @@
 
 # 30 Days of Vue Challenge
 
-## Resources
+### Resources
 
 [Vue Mastery - Multiple Classes (Free)](https://www.vuemastery.com/)
 
@@ -14,7 +14,7 @@
 [Fullstack.io - FullStack Vue Book (Paid)](https://www.fullstack.io/vue)
 
 
-## Project Ideas
+### Project Ideas
 [Simple Product Page](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
 
 [Weather App](https://dev.to/fabiorosado/weather-app-using-vue-and-axios-4ia6)
@@ -33,8 +33,7 @@
 
 
 
-## Log
-
+### Log
 
 ### Day 0: April 22 2019
 
@@ -43,6 +42,7 @@
 **Thoughts**: Happy with the resources I've picked. Ready to get started!
 
 **Link(s) to work**: [This Repo](https://github.com/gustsu/30-days-of-vue)
+<hr>
 
 
 ### Day 1: April 23 2019
@@ -52,6 +52,7 @@
 **Thoughts**: Felt like this was a good tutorial to start with since I have already completed the first course once but that was a little while ago and I don't recall everything. I'm having with fun the course, adding my own css and assets to make it a little more unique. Vue seems pretty neat and easy to pick up.
 
 **Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
+<hr>
 
 
 ### Day 2: April 24 2019
@@ -61,6 +62,7 @@
 **Thoughts**: Enjoying this course and enjoying Vue. Didn't spend a ton of time tonight but feels good to at least put in 30 minutes. Happy I've commited to 30 days, looking forward to some cool projects.
 
 **Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
+<hr>
 
 
 ### Day 3: April 29 2019
@@ -70,6 +72,7 @@
 **Thoughts**: Learned about Computed Properties and Componets. 
 
 **Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
+<hr>
 
 
 ### Day 4: April 30 2019
@@ -79,6 +82,8 @@
 **Thoughts**: Learned about how events are handled in vue and about passing props between componets. 
 
 **Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
+<hr>
+
 
 ### Day 5: May 7 2019
 
@@ -87,6 +92,8 @@
 **Thoughts**: Learned how to nest components inside of other components. Also learned about 2 way data binding. 
 
 **Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
+<hr>
+
 
 ### Day 6: May 12 2019
 
@@ -95,6 +102,8 @@
 **Thoughts**: Learned about state management. Implemented tabs on my project. Worked on the CSS as well. First project is complete for now! 
 
 **Link(s) to work**: [vuemastery-course1](https://github.com/gustsu/vuemastery-course1)
+<hr>
+
 
 ### Day 7: May 14 2019
 
@@ -103,6 +112,8 @@
 **Thoughts**: Setup Vue CLI. 
 
 **Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
+<hr>
+
 
 ### Day 8: May 23 2019
 
@@ -111,6 +122,8 @@
 **Thoughts**: Learning about the Vue Router and API calls with Axios. 
 
 **Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
+<hr>
+
 
 ### Day 9: May 26 2019
 
@@ -119,6 +132,8 @@
 **Thoughts**: I'm planning on building a weather or cryptocurrency price tracking app after I finish vuemastery-course2, so today I played around with [Vue Material](https://vuematerial.io). It is a really neat framework based on Googles Material Design. I've read mixed reviews regarding the framework but it seems very straight forward and well documented to me. Excited to use it in the future.
 
 **Link(s) to work**: [vue-material-testing](https://github.com/gustsu/vue-material-testing)
+<hr>
+
 
 ### Day 10: May 30 2019
 
@@ -126,8 +141,9 @@
 
 **Thoughts**: Learned about the vue router and client side routing. Excited to finish [Vue Mastery - Real World Vue JS](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro) so I can move onto some projects of my own. Tutorials are nice but there is nothing like doing it yourself to learn something new.
 
-
 **Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
+<hr>
+
 
 ### Day 11: June 12 2019
 
@@ -135,15 +151,25 @@
 
 **Thoughts**: Learned more about the vue router and how to setup dynamic routes. Also learned how to configure a web server to work with the vue router (just always serve index.html). 
 
-
 **Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
+<hr>
+
 
 ### Day 12: June 14 2019
 
 **Today's Progress**: Continued with [Vue Mastery - Real World Vue JS](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro). Finished Lesson 6
 
-**Thoughts**: Learned more components and how import/export them for use with other components. Also learned about global components 
+**Thoughts**: Learned more components and how import/export them for use with other components.
 
+**Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
+<hr>
+
+
+### Day 13: June 17 2019
+
+**Today's Progress**: Continued with [Vue Mastery - Real World Vue JS](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro). Finished Lesson 7
+
+**Thoughts**: Learned about global components
 
 **Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
 
