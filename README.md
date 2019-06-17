@@ -17,24 +17,25 @@
 
 
 ### Project Ideas
-[Simple Product Page](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+[Simple Vue Product Page](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
 
-[Weather App](https://dev.to/fabiorosado/weather-app-using-vue-and-axios-4ia6)
+[Vue Weather App](https://dev.to/fabiorosado/weather-app-using-vue-and-axios-4ia6)
 
-[Cryptocurrency Price Tracker](https://medium.com/@rachidsakara/building-a-cryptocurrency-app-with-vue-js-and-cryptocompare-api-14231af6f099)
+[Vue Cryptocurrency Price Tracker](https://medium.com/@rachidsakara/building-a-cryptocurrency-app-with-vue-js-and-cryptocompare-api-14231af6f099)
 
-[To Do List](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2)
+[Vue To Do List](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2)
 
 [Vue Calculator](https://www.youtube.com/watch?v=m1_ih43p24s)
 
 [Vue Portfolio Site](https://medium.freecodecamp.org/how-to-power-up-your-website-with-vue-js-and-minimal-effort-dc8042cc383c)
 
-[Trello Board](https://www.vuemastery.com/courses/watch-us-build-trello-clone/tour-of-the-app/)
+[Vue Powered Trello Board](https://www.vuemastery.com/courses/watch-us-build-trello-clone/tour-of-the-app/)
 
 [Basic CRUD App with Vue and Node](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)
 
 [Create a Dynamic Page using the Marvel API and Vuex](https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc?ref=madewithvuejs.com)
 
+[Build a Progressive Web App with Vue and Nuxt.js](https://scotch.io/tutorials/build-a-progressive-web-application-with-nuxtjs)
 
 ### Log
 
