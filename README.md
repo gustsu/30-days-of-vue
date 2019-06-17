@@ -13,6 +13,8 @@
 
 [Fullstack.io - FullStack Vue Book (Paid)](https://www.fullstack.io/vue)
 
+[Vue Cheatsheet](https://marozed.ma/vue-cheatsheet/)
+
 
 ### Project Ideas
 [Simple Product Page](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
@@ -31,6 +33,7 @@
 
 [Basic CRUD App with Vue and Node](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)
 
+[Create a Dynamic Page using the Marvel API and Vuex](https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc?ref=madewithvuejs.com)
 
 
 ### Log
