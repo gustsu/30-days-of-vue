@@ -176,4 +176,14 @@
 **Thoughts**: Learned about global components
 
 **Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
+<hr>
+
+
+### Day 14: June 18 2019
+
+**Today's Progress**: Finished [Vue Mastery - Real World Vue JS](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro)
+
+**Thoughts**: Learned about making API calls with axios as well as how to set it up as a service file so you only have one axios instance. Happy to be done with the tutorials, ready to move on and do some of my own projects.
+
+**Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
 
