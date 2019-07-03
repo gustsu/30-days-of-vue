@@ -186,4 +186,16 @@
 **Thoughts**: Learned about making API calls with axios as well as how to set it up as a service file so you only have one axios instance. Happy to be done with the tutorials, ready to move on and do some of my own projects.
 
 **Link(s) to work**: [vuemastery-course2](https://github.com/gustsu/vuemastery-course2)
+<hr>
+
+
+### Day 15: July 1 2019
+
+**Today's Progress**: Start a [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+
+**Thoughts**: Started a vue cryptocurrency price tracking app. It will be a simple app that lets users see the current price of the top 100 cryptocurrency by market cap. It will also display news and possibily allow users to add their own portfolio.
+
+**Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+
+
 
