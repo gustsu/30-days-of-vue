@@ -191,9 +191,19 @@
 
 ### Day 15: July 1 2019
 
-**Today's Progress**: Start a [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+**Today's Progress**: Started a [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
 
 **Thoughts**: Started a vue cryptocurrency price tracking app. It will be a simple app that lets users see the current price of the top 100 cryptocurrency by market cap. It will also display news and possibily allow users to add their own portfolio.
+
+**Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+<hr>
+
+
+### Day 16: July 9 2019
+
+**Today's Progress**: Worked on [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+
+**Thoughts**: Broke the Navbar into its own component. Added vuematerial.io
 
 **Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
 
