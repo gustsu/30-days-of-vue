@@ -206,6 +206,16 @@
 **Thoughts**: Broke the Navbar into its own component. Added vuematerial.io
 
 **Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+<HR>
+  
+  
+### Day 17: July 13 2019
+
+**Today's Progress**: Worked on [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+
+**Thoughts**: Adding more vue material components and developing the UI.
+
+**Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
 
 
 
