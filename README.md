@@ -216,6 +216,16 @@
 **Thoughts**: Adding more vue material components and developing the UI.
 
 **Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+<hr>
+
+
+### Day 18: July 16 2019
+
+**Today's Progress**: Worked on [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+
+**Thoughts**: Adding more vue material components and developing the UI more. Getting started with axios. 
+
+**Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
 
 
 
