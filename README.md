@@ -226,6 +226,26 @@
 **Thoughts**: Adding more vue material components and developing the UI more. Getting started with axios. 
 
 **Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+<hr>
+
+
+### Day 19: July 21 2019
+
+**Today's Progress**: Worked on [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+
+**Thoughts**: Setup Axois and a CoinApiService file for handling API requests.
+
+**Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+<hr>
+
+
+### Day 20: July 30 2019
+
+**Today's Progress**: Worked on [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+
+**Thoughts**: Finished up the News and Rankings pages. Would still like to improve the rankings page, possibly add a search, sort, and an load more cryptos option to it. I would also like to add a Portfolio page. 
+
+**Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
 
 
 
