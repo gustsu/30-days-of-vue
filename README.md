@@ -246,6 +246,15 @@
 **Thoughts**: Finished up the News and Rankings pages. Would still like to improve the rankings page, possibly add a search, sort, and an load more cryptos option to it. I would also like to add a Portfolio page. 
 
 **Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+<hr>
 
+
+### Day 21: August 2 2019
+
+**Today's Progress**: Worked on [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+
+**Thoughts**: Improved the Rankings page a little bit more. Added a select box that lets you control how many coins are output. Basically an API Request is made everytime the select box change event is ran with the select box value as the limit. Done with Rankings and News page for now. I might come back and add a Portfolio page, a mobile navigation, etc to the app but I'm happy with it for now. 
+
+**Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
 
 
