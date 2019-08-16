@@ -265,6 +265,6 @@
 
 **Thoughts**: Got started on a vue weather app, it will be a simple mobile app that gets the location of a user and then displays the current weather at the users location.
 
-**Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-weather-app)
+**Link(s) to work**: [vue-weather-app](https://github.com/gustsu/vue-weather-app)
 
 
