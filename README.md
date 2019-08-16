@@ -256,5 +256,15 @@
 **Thoughts**: Improved the Rankings page a little bit more. Added a select box that lets you control how many coins are output. Basically an API Request is made everytime the select box change event is ran with the select box value as the limit. Done with Rankings and News page for now. I might come back and add a Portfolio page, a mobile navigation, etc to the app but I'm happy with it for now. 
 
 **Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-cryptocurrency-app)
+<hr>
+
+
+### Day 22: August 16 2019
+
+**Today's Progress**: Started a Vue Weather App
+
+**Thoughts**: Got started on a vue weather app, it will be a simple mobile app that gets the location of a user and then displays the current weather at the users location.
+
+**Link(s) to work**: [vue-cryptocurrency-app](https://github.com/gustsu/vue-weather-app)
 
 
