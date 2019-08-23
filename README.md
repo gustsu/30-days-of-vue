@@ -276,5 +276,15 @@
 **Thoughts**: Working on the UI and on adding axios to make the an API call to weather service and get weather data.
 
 **Link(s) to work**: [vue-weather-app](https://github.com/gustsu/vue-weather-app)
+<HR>
+  
+  
+### Day 24: August 23 2019
+
+**Today's Progress**: Worked on my Vue Weather App
+
+**Thoughts**: Finished up the main page with a static location (Spokane, wa). I'm pretty happy with the app so far, it is just a basic weather app. I would still would like to develop the rest of the pages out further and would also like to dynamically pull the user's location.
+
+**Link(s) to work**: [vue-weather-app](https://github.com/gustsu/vue-weather-app)
 
 
