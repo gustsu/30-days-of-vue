@@ -286,5 +286,14 @@
 **Thoughts**: Finished up the main page with a static location (Spokane, wa). I'm pretty happy with the app so far, it is just a basic weather app. I would still would like to develop the rest of the pages out further and would also like to dynamically pull the user's location.
 
 **Link(s) to work**: [vue-weather-app](https://github.com/gustsu/vue-weather-app)
+<HR>
+
+### Day 25: September 10 2019
+
+**Today's Progress**: Worked on my Vue Weather App
+
+**Thoughts**: Working on adding in the geolocation API to display weather based on the users location. Not done with that yet. Improved/Change the UI a little bit.
+
+**Link(s) to work**: [vue-weather-app](https://github.com/gustsu/vue-weather-app)
 
 
