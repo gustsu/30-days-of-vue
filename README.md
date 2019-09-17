@@ -288,6 +288,7 @@
 **Link(s) to work**: [vue-weather-app](https://github.com/gustsu/vue-weather-app)
 <HR>
 
+
 ### Day 25: September 10 2019
 
 **Today's Progress**: Worked on my Vue Weather App
@@ -295,5 +296,14 @@
 **Thoughts**: Working on adding in the geolocation API to display weather based on the users location. Not done with that yet. Improved/Change the UI a little bit.
 
 **Link(s) to work**: [vue-weather-app](https://github.com/gustsu/vue-weather-app)
+<HR>
 
+
+### Day 26: September 16 2019
+
+**Today's Progress**: Finished my Vue Weather App
+
+**Thoughts**: Finished displaying the weather based on the users location using the geolocation API. Also added a few more features like a dynamic background that changes based on the weather. Moving onto a Personal Portfolio Vue App for the last 4 days of the challenge.
+
+**Link(s) to work**: [vue-weather-app](https://github.com/gustsu/vue-weather-app)
 
