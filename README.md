@@ -306,4 +306,14 @@
 **Thoughts**: Finished displaying the weather based on the users location using the geolocation API. Also added a few more features like a dynamic background that changes based on the weather. Moving onto a Personal Portfolio Vue App for the last 4 days of the challenge.
 
 **Link(s) to work**: [vue-weather-app](https://github.com/gustsu/vue-weather-app)
+<hr>
+
+
+### Day 27: October 3 2019
+
+**Today's Progress**: Started a vue calculator app
+
+**Thoughts**: I decided to hold off on a Vue Personal Portfolio and build a Vue Calculator instead. Setup project and watched some tutorials on Vue Calculators.
+
+**Link(s) to work**: [vue-calculator](https://github.com/gustsu/vue-calculator)
 
