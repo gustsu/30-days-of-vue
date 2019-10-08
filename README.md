@@ -311,9 +311,19 @@
 
 ### Day 27: October 3 2019
 
-**Today's Progress**: Started a vue calculator app
+**Today's Progress**: Started a Vue Calculator app
 
 **Thoughts**: I decided to hold off on a Vue Personal Portfolio and build a Vue Calculator instead. Setup project and watched some tutorials on Vue Calculators.
+
+**Link(s) to work**: [vue-calculator](https://github.com/gustsu/vue-calculator)
+<hr>
+
+
+### Day 28: October 7 2019
+
+**Today's Progress**: Worked on my Vue Calculator
+
+**Thoughts**: Followed the tutorial from above to create the calculator. Restyled the calculator based on a mockup. Redid all the css using flexbox instead of css grid. Calculator is basically complete but I would still like to add some color features.
 
 **Link(s) to work**: [vue-calculator](https://github.com/gustsu/vue-calculator)
 
