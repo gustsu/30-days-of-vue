@@ -326,4 +326,14 @@
 **Thoughts**: Followed the tutorial from above to create the calculator. Restyled the calculator based on a mockup. Redid all the css using flexbox instead of css grid. Calculator is basically complete but I would still like to add some color features.
 
 **Link(s) to work**: [vue-calculator](https://github.com/gustsu/vue-calculator)
+<hr>
+
+
+### Day 29: October 11 2019
+
+**Today's Progress**: Worked on my Vue Calculator
+
+**Thoughts**: Worked on the design and on adding in some small little features like 3d mode.
+
+**Link(s) to work**: [vue-calculator](https://github.com/gustsu/vue-calculator)
 
