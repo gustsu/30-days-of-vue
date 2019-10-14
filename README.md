@@ -336,4 +336,19 @@
 **Thoughts**: Worked on the design and on adding in some small little features like 3d mode.
 
 **Link(s) to work**: [vue-calculator](https://github.com/gustsu/vue-calculator)
+<hr>
+
+
+### Day 30: October 14 2019
+
+**Today's Progress**: Finished my Vue Calculator
+
+**Thoughts**: Finished adding 3d mode and also finished up some UI changes. Calculator is done for now.
+
+**Link(s) to work**: [vue-calculator](https://github.com/gustsu/vue-calculator)
+<hr>
+
+
+### Final Thoughts
+I really enjoyed this challenge. It forced me to get out of my jQuery comfort zone and to finally try out some JavaScript Frameworks. It also gave me some nice experience with a CLI. Before the challenge I had very little experience with CLIs, now they are the only thing I want to develop with. I feel like I have gained a pretty solid understanding of Vue JS and of JavaScript Frameworks in general. 10/10 would recommend.
 
